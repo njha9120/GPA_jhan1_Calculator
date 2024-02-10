@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">GPA_jhan1_Calculator</string>
+    <string name="gpa_calculator">GPA Calculator</string>
+    <string name="subject1">Subject1</string>
+    <string name="subject2">Subject2</string>
+    <string name="subject3">Subject3</string>
+    <string name="subject4">Subject4</string>
+    <string name="subject5">Subject5</string>
+    <string name="calculate_gpa">Calculate GPA</string>
+    <string name="enter_grade">Enter Grade</string>
+    <string name="compute">Compute</string>
+    <string name="getresult">getresult</string>
+    <string name="result">result</string>
+    <string name="compute_gpa">Compute GPA</string>
+    <string name="value_cannot_be_null">Value cannot be NULL</string>
+</resources>
